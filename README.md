@@ -1,5 +1,5 @@
 website image:
-https://github.com/mayursengar/gym-website/blob/main/Screenshot%202025-04-05%20162723.png?raw=true
+![image alt](https://github.com/mayursengar/gym-website/blob/main/Screenshot%202025-04-05%20162723.png?raw=true)
 
 # Getting Started with Create React App
 

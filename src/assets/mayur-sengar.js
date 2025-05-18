@@ -1,0 +1,1 @@
+export const mayurSengarImage = "https://i.ibb.co/0jw4z4Q/mayur-sengar.jpg"; 
